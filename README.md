@@ -60,6 +60,13 @@ I’m eager to contribute to early-career software roles where I can grow as an 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)
 
 ---
+
+### 📫 Let's Connect
+
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/gabriel-raphael-732425202)
+- 📧 Email: gabriel.raphael1@outlook.com
+
+---
 <!--
 **GLRAPHAEL9/GLRAPHAEL9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
