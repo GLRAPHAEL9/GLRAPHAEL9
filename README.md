@@ -63,7 +63,6 @@ I’m eager to contribute to early-career software roles where I can grow as an 
 
 ### 📫 Let's Connect
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/gabriel-raphael-732425202)
 - 📧 Email: gabriel.raphael1@outlook.com
 
 ---
