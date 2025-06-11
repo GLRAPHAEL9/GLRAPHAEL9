@@ -1,5 +1,9 @@
 ## 👋 Hi, Gabriel Raphael
 
+🎓 MSc Artificial Intelligence | 💻 Graduate Software Developer | 🧠 NLP & Systems Enthusiast
+
+---
+
 
 
 
