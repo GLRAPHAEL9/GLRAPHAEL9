@@ -16,6 +16,17 @@ I’m eager to contribute to early-career software roles where I can grow as an 
 
 ---
 
+### 🚀 What I'm Working On 
+- 🌴 Creating a holiday website using HTML and CSS to sharpen my front-end design skills
+- 🔁 Applying to early-career software roles (including full-stack & system software)
+- 📦 Building full-stack apps with React, Node, and MongoDB
+- 🧠 Developing and refining NLP tools using Python, Hugging Face, and PyTorch
+- 🧪 Exploring efficient ways to productionize ML and improve developer tooling
+- 📚 Currently learning C++ and C# to broaden my programming expertise
+
+  ---
+
+
 <!--
 **GLRAPHAEL9/GLRAPHAEL9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
