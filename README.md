@@ -1,6 +1,6 @@
 ## 👋 Hi, Gabriel Raphael
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&width=435&lines=Hi%2C+I'm+Gabriel+Raphael)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C3483&width=435&lines=Hi%2C+I'm+Gabriel+Raphael)
 
 
 
