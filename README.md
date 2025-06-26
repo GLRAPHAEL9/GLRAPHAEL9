@@ -1,8 +1,7 @@
 ## 👋 Hi, Gabriel Raphael
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Gabriel+Raphael;🎓+AI+Graduate+%7C+Software+Developer;💡+Creative+with+Code+%7C+Web+%26+ML+Projects;🛠️+Python%2C+HTML%2FCSS%2C+ML%2C+C%23%2C+C%2B%2B;🚀+Always+Learning%2C+Building%2C+Creating" alt="Gabriel Raphael Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&width=435&lines=Hi%2C+I'm+Gabriel+Raphael)
+
 
 
 🎓 MSc Artificial Intelligence | 💻 Graduate Software Developer | 🧠 NLP & Systems Enthusiast
