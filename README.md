@@ -1,5 +1,8 @@
 ## 👋 Hi, Gabriel Raphael
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1FAB89&width=435&lines=Hi%2C+I'm+Gabriel+Raphael)
+
+
 🎓 MSc Artificial Intelligence | 💻 Graduate Software Developer | 🧠 NLP & Systems Enthusiast
 
 ---
